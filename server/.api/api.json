@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "intasend-waas",
+      "source": "@intasend-waas/v1.0#2kv5vco1flmsw9ntl",
+      "integrity": "sha512-7fAd64u8rnKgbXfSmc+Ws9cK+FSuo12/YG2/WY5SErfgL0ugab1fD0XuJBaAtlqiekUOwBI/L9z5hVX3jUWOUA==",
+      "installerVersion": "6.1.2"
+    }
+  ]
+}
